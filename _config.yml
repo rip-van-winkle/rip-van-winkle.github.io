@@ -79,7 +79,7 @@ analytics:
 author:
   name             : *name
   avatar           : "/images/bio-photo.jpg"
-  bio              : "A man who travels the world eating shrimps."
+  bio              : "A man who travels the world eating shrimps.<br/>痴虾狂魔🍤"
   location         : "Beijing"
   email            : "wei.ye@microsoft.com"
   uri              :

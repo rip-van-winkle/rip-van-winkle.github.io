@@ -6,10 +6,10 @@ modified: 2015-04-12
 comments: true
 permalink: /about/
 header:
-  image: /images/feature/selfie-thai-cmu.jpg 
+  image: /images/feature/dresden-rail.jpg
 ---
 
-This is a personal blog about Wei Ye's thoughts on working, learning and life.
+来自微软的软件工程师一枚。在沉迷虾肉之余，用博客记录自己对技术和生活的探索与思考。
 
 > 思君令人老，    
 > 岁月忽已晚。    

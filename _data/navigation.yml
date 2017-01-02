@@ -2,8 +2,6 @@
 main:
     - title: "Posts"
       url: /year-archive/
-    - title: "Git Note"
-      url: /git-class-notes/
     - title: "About"
       url: /about/
 
